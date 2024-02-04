@@ -1,0 +1,26 @@
+  @font-face {
+      font-family: 'Bodoni 72';
+      src: url('../fonts/Bodoni72/BodoniSvtyTwoITCTT-Book.eot');
+      src: url('../fonts/Bodoni72/BodoniSvtyTwoITCTT-Book.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/Bodoni72/BodoniSvtyTwoITCTT-Book.woff2') format('woff2'),
+          url('../fonts/Bodoni72/BodoniSvtyTwoITCTT-Book.woff') format('woff'),
+          url('../fonts/Bodoni72/BodoniSvtyTwoITCTT-Book.ttf') format('truetype'),
+          url('../fonts/Bodoni72/BodoniSvtyTwoITCTT-Book.svg#BodoniSvtyTwoITCTT-Book') format('svg');
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+  }
+
+
+  @font-face {
+      font-family: 'Bodoni72C-bold';
+      src: url('../fonts/Bodoni72/Bodoni72C-Bold.eot');
+      src: url('../fonts/Bodoni72/Bodoni72C-Bold.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/Bodoni72/Bodoni72C-Bold.woff2') format('woff2'),
+          url('../fonts/Bodoni72/Bodoni72C-Bold.woff') format('woff'),
+          url('../fonts/Bodoni72/Bodoni72C-Bold.ttf') format('truetype'),
+          url('../fonts/Bodoni72/Bodoni72C-Bold.svg#Bodoni72C-Bold') format('svg');
+      font-weight: 700;
+      font-style: normal;
+      font-display: swap;
+  }
